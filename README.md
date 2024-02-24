@@ -909,11 +909,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 - Meetup [Washington DC] (https://www.meetup.com/DCFlutter/)
 
-### 🏴 Kurdistan
-
-- Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
-
+  
 ### 🇳🇴 Norway
+
 - [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
 - [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 - [Twitter](https://twitter.com/flutterNorway)
